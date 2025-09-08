@@ -1,3 +1,3 @@
-# Ao 6th String notes
+# AO 6th String notes
 
 print("I did it!")
