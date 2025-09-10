@@ -1,5 +1,5 @@
-# AO 6th Name decorator
+# AO 6th Name decorator CSP
 
-Name =input("Hey what is your name:\n")
+Name =input("what is your name:\n").title().strip()
 
-print("hello!", ">>>" + Name + "!")
+print("hello!", ">>>" +  Name  + " " + ">>>")
